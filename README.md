@@ -1,1 +1,4 @@
-# haskell-home-coming
+
+# Haskellもっかいやっていこう。
+
+## すごい Haskell!
